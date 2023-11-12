@@ -10,7 +10,7 @@ import { TaskItemComponent } from './components/task-item/task-item.component';
 
 @NgModule({
   declarations: [AppComponent, HeaderComponent, ButtonComponent, TasksComponent, TaskItemComponent],
-  imports: [BrowserModule, FontAwesomeModule,HttpClientModule],
+  imports: [BrowserModule, FontAwesomeModule, HttpClientModule],
   providers: [],
   bootstrap: [AppComponent],
 })
