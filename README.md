@@ -1,7 +1,7 @@
 # MyApp
 Generate Command example 
 ng generate component components/button
-
+ng generate component components/add-task
 ## Issue with Prettier Integration
 
 Due to a known issue, the "prettier": "2.8.4" package dependency may prevent Prettier from automatically formatting code on save. To ensure consistent code formatting, please run ```npm run prettier``` before saving your code. This will apply Prettier's styling rules to your code.
